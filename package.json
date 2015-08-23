@@ -1,0 +1,16 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync": "scripts/sync.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-screeps": "^1.1.0",
+    "uglify-js": "^2.4.24"
+  }
+}
